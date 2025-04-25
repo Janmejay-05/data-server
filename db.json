@@ -70,5 +70,12 @@
       "category": "Electronics",
       "price": "3500"
     }
+  ],
+  "admin": [
+    {
+      "id": "aaa1",
+      "username": "janmejaysinhzala",
+      "password": "Janmejay@2005"
+    }
   ]
 }
